@@ -1,0 +1,5 @@
+print("Hello")
+ if x<7
+    then print("x is less than seven")
+else:
+   print("x is great er than seven")
